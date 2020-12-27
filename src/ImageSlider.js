@@ -1,5 +1,5 @@
 // your Bomb code here!
-import React from react
+import React from 'react'
 
 class ImageSlider extends React.Component {
 
