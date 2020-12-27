@@ -1,6 +1,6 @@
 // your Bomb code here!
-import React, { Component } from 'react';
-import ImageSlider from './src/Bomb.js'
-export default class Bomb extends Component {
+import React from 'react'
+
+class Bomb extends React.Component {
 
 }
